@@ -1,0 +1,64 @@
+.bg-dark-custom {
+            background-color: #404040;
+          
+        }
+
+        .headerFloat {
+            position: sticky;
+            top: 0;
+            width: 100%;
+            z-index: 1000;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        
+        .hero-section {
+            background-color: #f8f9fa;
+            padding: 4rem 0;
+        }
+
+        .registration-status {
+            color: #28a745;
+            font-weight: 600;
+        }
+
+        .content-section {
+            padding: 4rem 0;
+        }
+
+        .course-details {
+            background-color: #f8f9fa;
+            border-radius: 10px;
+            padding: 2rem;
+        }
+
+        .register-btn {
+            padding: 1rem 2.5rem;
+            font-size: 1.1rem;
+        }
+
+        .outline-list li {
+            margin-bottom: 0.75rem;
+        }
+
+        .outline-list i {
+            color: #28a745;
+            margin-right: 0.5rem;
+        }
+
+        .countdown-item {
+            text-align: center;
+            min-width: 80px;
+        }
+
+        .countdown-item .number {
+            display: block;
+            font-size: 2rem;
+            font-weight: bold;
+            color: #28a745;
+        }
+
+        .countdown-item .text {
+            display: block;
+            font-size: 0.875rem;
+            color: #666;
+        }
